@@ -12,8 +12,8 @@ sunucu kurar, çöker, tekrar kurar gene devam ederim. <br>kafama eserse bot yaz
 ![](https://nirzak-streak-stats.vercel.app/?user=wmwar53&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=wmwar53&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Rastgele Gelistirici Sozu
-!![Torvalds](torvalds.svg)
+### Kod Yazmak Yetmez, Kurnaz Olmak Lazım
+![Torvalds](torvalds.svg)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=wmwar53&icon=3&color=10)](https://visitcount.itsvg.in)
