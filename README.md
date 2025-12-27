@@ -13,7 +13,7 @@ sunucu kurar, çöker, tekrar kurar gene devam ederim. <br>kafama eserse bot yaz
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=wmwar53&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Rastgele Gelistirici Sozu
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
+!![Torvalds](torvalds.svg)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=wmwar53&icon=3&color=10)](https://visitcount.itsvg.in)
