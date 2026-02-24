@@ -1,6 +1,12 @@
 # Hakkimda:
-sunucu kurar, çöker, tekrar kurar gene devam ederim. <br>kafama eserse bot yazarım, bazen de kendi kendime sistem karıştırırım. <br>uğraşmayı seviyorum, uğraşırken küfür etmeyi daha çok seviyorum.<br> burda da kendimi anlatıcak bi şey yok aslında, yaptığımı yapıyorum 
-
+sunucu kurarim, coker, tekrar kurarim; hatalari bulur, guvenlik aciklarini test ederim.<br>
+kafama eserse bot yazarim, otomasyon geliştiririm, bazen kendi kendime sistemle oynayip sinirlarimi zorlarim.<br>
+kod yazarken bazen kufur ederim, bazen sistemlerin davranislarini anlamak icin deneyler yaparim.<br>
+merakliyim, sabirsizim ve ugrasmayi severim; her yeni deneme, her yeni hata bana ogrenmek ve gelismek icin bir firsat sunar.<br>
+siber guvenlik sadece isim degil, laboratuvarim, oyun alanim ve kisisel meydan okumam.<br>
+hatalarimdan ders cikarmak benim icin bir egzersiz; her sunucu farkli bir deney, her bot farkli bir test, her bug farkli bir galibiyet.<br>
+anlatacak cok sey yok aslinda; yaptigimi yapiyorum ve kendimi gelistiriyorum.<br>
+unutma; her sunucu bir meydan okuma, her bot bir deneme tahtasi, her bug bir galibiyet.
 
 ## 🌐 Sosyal Medya:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/Z4JNgFZ742) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/wmwar5339) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/wmwar5339) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:denizgozen61@gmail.com) 
